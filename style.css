@@ -18,7 +18,7 @@ p{
     color: white;
     background-image: linear-gradient(cyan, blue);
     border-radius: 30px;
-    padding: 10px 15px;
+    padding: 15px 25px;
     
 }
 .flexiable-container{
@@ -53,8 +53,18 @@ p{
     padding: 2%;
     border-radius: 30px;
     padding-bottom: 0%;
+    margin-bottom: 10%;
 }
 .box-image{
     border-radius: 20px;
     height: 50%;
+}
+.white-color{
+    color: white;
+}
+#footer-text{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 120px;
+    padding-top: 10px;
 }

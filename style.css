@@ -41,9 +41,8 @@ p{
     background-repeat: no-repeat;
     height: 650px;
      }
-    #bottom-text{
+#bottom-text{
     text-align: center;
-    padding-left: 15%;
     margin-top: 5%;
 }
 .box-shadow{
@@ -68,3 +67,8 @@ p{
     padding-bottom: 120px;
     padding-top: 10px;
 }
+#contact-us-text{
+    font-size: 50px;
+    text-align: center;
+}
+

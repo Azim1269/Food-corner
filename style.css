@@ -7,9 +7,9 @@ body{
     color: rgba(0, 183, 255, 0.993);
 }
 p{
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 }
-h1{
+#Top-text{
     font-size: 50px;
     font-weight: 700;
 }
@@ -19,7 +19,7 @@ h1{
     background-image: linear-gradient(cyan, blue);
     border-radius: 30px;
     padding: 10px 15px;
-    margin-top: 100px;
+    
 }
 section{
     display: flex;
@@ -27,8 +27,9 @@ section{
 }
 .half-width{
     width: 50%; 
-    padding-left: 10%;  
-    padding-top: 10%; 
+    padding-left: 10%; 
+    margin-top: 5%; 
+     
     
 }
 .half-width img{
@@ -37,5 +38,6 @@ section{
 #center-banner{
     background-image: url(images/Banner.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    height: 450px;
+    
 }
